@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">Weather</string>
     <string name="action_settings">Settings</string>
+    <string name="strdatetime">Date/Time</string>
+    <string name="strhourly">Hourly</string>
+    <string name="strdaily">Daily</string>
+    <string name="strStatus">Status</string>
+    <string name="strNow">Now</string>
+    <string name="strSummary">Summary</string>
 </resources>
